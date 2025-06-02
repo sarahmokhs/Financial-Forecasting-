@@ -13,5 +13,12 @@ This project involves time series forecasting of the GBP/USD exchange rate using
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn, Keras)
 - Jupyter Notebook
 
+## How to Run
+
+1. Open `financial_forecasting.ipynb` in Jupyter
+2. Ensure `GBPUSD_open_5year.csv` is in the same folder
+3. Run all cells to see preprocessing, model training, and predictions
+
+
 
 
